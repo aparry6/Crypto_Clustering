@@ -7,6 +7,5 @@ Performed Principal Component Analysis (PCA) on the original scaled DataFrame an
 Created a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 Found the best value for k using the elbow method on the PCA data.
 Clustered the cryptocurrencies using K-means algorithm on the PCA data with the best value of k.
-Answered the question regarding the impact of using fewer features with K-means clustering.
-Refer to the code and the outputs in your notebook for more details and specific visualizations.
 
+I used google, ChatGPT, and bootcamp lessons for help completing this assignment. 
